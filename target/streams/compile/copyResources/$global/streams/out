@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/MovieLensALS/src/main/resources/users.dat,/home/oussama/IdeaProjects/MovieLensALS/target/scala-2.11/classes/users.dat)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/MovieLensALS/src/main/resources/movies.dat,/home/oussama/IdeaProjects/MovieLensALS/target/scala-2.11/classes/movies.dat)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/MovieLensALS/src/main/resources/README,/home/oussama/IdeaProjects/MovieLensALS/target/scala-2.11/classes/README)[0m
+[0m[[0mdebug[0m] [0m	(/home/oussama/IdeaProjects/MovieLensALS/src/main/resources/ratings.dat,/home/oussama/IdeaProjects/MovieLensALS/target/scala-2.11/classes/ratings.dat)[0m
